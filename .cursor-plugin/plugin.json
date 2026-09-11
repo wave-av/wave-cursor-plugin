@@ -1,0 +1,20 @@
+{
+  "name": "wave",
+  "displayName": "WAVE",
+  "version": "0.1.0",
+  "description": "Media MCP for agents: captions, clips, render, live — pay with key or x402.",
+  "publisher": "wave-av",
+  "repository": "https://github.com/wave-av/wave-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "media", "x402", "captions", "render", "transcribe", "clips"],
+  "skills": [
+    "skills/wave-media",
+    "skills/wave-transcribe",
+    "skills/wave-captions",
+    "skills/wave-render",
+    "skills/wave-clips",
+    "skills/wave-x402-call",
+    "skills/wave-openapi"
+  ],
+  "mcp": "mcp.json"
+}

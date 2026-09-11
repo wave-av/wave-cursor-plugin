@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "wave": {
+      "url": "https://api.wave.online/mcp",
+      "transport": "http"
+    }
+  },
+  "variables": {
+    "WAVE_API_KEY": {
+      "description": "Optional person-path API key. When set, clients may send Authorization: Bearer <WAVE_API_KEY>. Not required for agent/x402 path.",
+      "required": false,
+      "secret": true
+    }
+  }
+}

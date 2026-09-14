@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "wave-cursor-plugin",
+  "description": "WAVE review plane for Cursor: multi-reviewer code verdicts and the armed vuln-scan pattern",
+  "version": "0.1.0",
+  "author": { "name": "WAVE Online, LLC", "url": "https://wave.online" },
+  "homepage": "https://github.com/wave-av/wave-cursor-plugin",
+  "repository": "https://github.com/wave-av/wave-cursor-plugin",
+  "license": "Apache-2.0"
+}

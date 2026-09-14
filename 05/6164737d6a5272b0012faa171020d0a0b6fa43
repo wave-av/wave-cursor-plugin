@@ -1,0 +1,25 @@
+skills/wave-vuln-scan/SKILL.md
+  s_aaed2751ff676c::t_29a61934c02bf8 1-35
+skills/wave-review/SKILL.md
+  s_aaed2751ff676c::t_203b52f743f5db 1-27
+plugin.json
+  s_aaed2751ff676c::t_f2347be32f95c2 1-10
+README.md
+  s_aaed2751ff676c::t_0a171fde43b20a 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "056164737d6a5272b0012faa171020d0a0b6fa43",
+  "prompts": {},
+  "sessions": {
+    "s_aaed2751ff676c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f63ffd6eeffezlQo2FA26sbavF",
+        "model": "muse-spark-1.3-contributor"
+      },
+      "human_author": "Jake Fineman <jakefineman@gmail.com>"
+    }
+  }
+}
